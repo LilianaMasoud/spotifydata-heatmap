@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//lilianamasoud.github.io/spotifydata-heatmap/static/css/main.5b2e729d.css",
+    "main.js": "//lilianamasoud.github.io/spotifydata-heatmap/static/js/main.3a118dd3.js",
+    "static/js/453.ad6eb26e.chunk.js": "//lilianamasoud.github.io/spotifydata-heatmap/static/js/453.ad6eb26e.chunk.js",
+    "static/media/logo.svg": "//lilianamasoud.github.io/spotifydata-heatmap/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//lilianamasoud.github.io/spotifydata-heatmap/index.html",
+    "main.5b2e729d.css.map": "//lilianamasoud.github.io/spotifydata-heatmap/static/css/main.5b2e729d.css.map",
+    "main.3a118dd3.js.map": "//lilianamasoud.github.io/spotifydata-heatmap/static/js/main.3a118dd3.js.map",
+    "453.ad6eb26e.chunk.js.map": "//lilianamasoud.github.io/spotifydata-heatmap/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b2e729d.css",
+    "static/js/main.3a118dd3.js"
+  ]
+}
